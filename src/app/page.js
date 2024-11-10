@@ -65,7 +65,7 @@ export default function Home() {
         </p>
         <div className="flex justify-center mt-8">
           <img
-            src="/image.png"
+            src="/images/profile2.jpg"
             alt="My Profile"
             className="rounded-full h-48 w-48 border-4 border-teal-500 shadow-lg"
           />
