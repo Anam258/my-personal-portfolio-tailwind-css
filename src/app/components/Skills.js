@@ -3,6 +3,7 @@ import { FaReact, FaNodeJs, FaHtml5, FaCss3Alt } from "react-icons/fa";
 export default function Skills() {
   return (
     <div className="container mx-auto py-16 px-4 text-center">
+
       <div className="flex flex-wrap justify-center gap-8">
         <div className="flex flex-col items-center w-32">
           <FaReact className="text-6xl text-blue-600 mb-4" />
